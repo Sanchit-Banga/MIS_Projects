@@ -1,0 +1,23 @@
+
+{
+java:S1488@"YImmediately return this expression instead of assigning it to the temporary variable "l".(·à«ÿÿÿÿÿ8ïõÔ…ì0
+v
+java:S1488F"YImmediately return this expression instead of assigning it to the temporary variable "l".(¿ïÁó8ïõÔ…ì0
+t
+java:S6204@"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(·à«ÿÿÿÿÿ8öÔ…ì0
+Q
+java:S1611@"/Remove the parentheses around the "x" parameter(·à«ÿÿÿÿÿ8öÔ…ì0
+c
+java:S1612@"AReplace this lambda with method reference 'Author::getFirstName'.(·à«ÿÿÿÿÿ8–öÔ…ì0
+o
+java:S6204F"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¿ïÁó8–öÔ…ì0
+L
+java:S1611F"/Remove the parentheses around the "x" parameter(¿ïÁó8–öÔ…ì0
+X
+java:S1612F";Replace this lambda with method reference 'Book::getTitle'.(¿ïÁó8–öÔ…ì0
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ö…Îòıÿÿÿÿ8ŸöÔ…ì0
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8ŸöÔ…ì0
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(õ¨’÷8ŸöÔ…ì0
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8´´Õ…ì0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8œ¬Ø…ì0

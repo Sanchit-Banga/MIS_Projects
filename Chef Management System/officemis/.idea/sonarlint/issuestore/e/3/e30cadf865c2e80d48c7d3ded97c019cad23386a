@@ -1,0 +1,9 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ô¶ïıÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "x" parameter(°°ìñ
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(°°ìñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°°ìñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØãÄº

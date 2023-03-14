@@ -1,0 +1,10 @@
+
+d
+java:S2095
+"GUse try-with-resources or close this "Statement" in a "finally" clause.(—ýµ•8¯žý®ì0
+]	java:S125"<This block of commented-out lines of code should be removed.(è™¶óÿÿÿÿÿ8¯žý®ì0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼®´·8¯žý®ì0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×Ô›¾8¯žý®ì0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œ°Ýá8¯žý®ì0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(œ¯ši8¯žý®ì0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8¯žý®ì0

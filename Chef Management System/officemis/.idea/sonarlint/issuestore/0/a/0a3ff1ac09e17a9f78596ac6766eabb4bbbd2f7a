@@ -1,0 +1,47 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "input".(Ş¡À
+;
+java:S1659" Declare "d2" on a separate line.(ìæÍÇşÿÿÿÿ
+W
+java:S1659"ADeclare "mon1" and all following declarations on a separate line.(ò‰ƒ‘
+V
+java:S1659"ADeclare "mon2" and all following declarations on a separate line.(Éó»a
+B
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ
+B
+java:S1481"'Remove this unused "d1" local variable.(ìæÍÇşÿÿÿÿ
+B
+java:S1481"'Remove this unused "d2" local variable.(ìæÍÇşÿÿÿÿ
+=
+java:S1481"'Remove this unused "y1" local variable.(ò‰ƒ‘
+?
+java:S1481")Remove this unused "mon1" local variable.(ò‰ƒ‘
+>
+java:S1481"(Remove this unused "dy1" local variable.(ò‰ƒ‘
+=
+java:S1481"'Remove this unused "h1" local variable.(ò‰ƒ‘
+?
+java:S1481")Remove this unused "min1" local variable.(ò‰ƒ‘
+=
+java:S1481"'Remove this unused "s1" local variable.(ò‰ƒ‘
+<
+java:S1481"'Remove this unused "y2" local variable.(Éó»a
+>
+java:S1481")Remove this unused "mon2" local variable.(Éó»a
+=
+java:S1481"(Remove this unused "dy2" local variable.(Éó»a
+<
+java:S1481"'Remove this unused "h2" local variable.(Éó»a
+>
+java:S1481")Remove this unused "min2" local variable.(Éó»a
+<
+java:S1481"'Remove this unused "s2" local variable.(Éó»a
+>	java:S108")Either remove or fill this block of code.(é±“ù
+@
+java:S1481"*Remove this unused "input" local variable.(Ş¡À
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ

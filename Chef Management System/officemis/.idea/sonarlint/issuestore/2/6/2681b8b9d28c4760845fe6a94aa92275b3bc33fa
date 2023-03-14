@@ -1,0 +1,11 @@
+
+m
+java:S36557"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(“øÿ‹8¦† ”ì0
+m
+java:S3655="PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ö÷´Š8–† ”ì0
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(×Ú™ßøÿÿÿÿ8Å† ”ì0
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(øÆì8æÕ ”ì0
+U
+java:S1128"9Remove this unused import 'javax.swing.text.html.Option'.(¼Òì:8öÕ ”ì0
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8öÕ ”ì0
