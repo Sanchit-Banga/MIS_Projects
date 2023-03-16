@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="SpringJpaFirst:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringJpaFirst_ear_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="SpringJpaFirst:war exploded" />
+      </element>
+      <element id="javaee-facet-resources" facet="SpringJpaFirst/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
